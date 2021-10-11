@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    background-image: url("https://media.istockphoto.com/vectors/vector-food-and-drink-patternfood-and-drink-seamless-background-vector-id941391610?k=20&m=941391610&s=170667a&w=0&h=fec5uy0uLGZ7HHnewpB7e7pU-Msr1ClJBITlsuoWfww=");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1 {
+    color: rgb(194, 87, 26);
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    margin: 5px 0;
+    width: 500px;
+    height: 600px;
+    background-color: rgb(209, 218, 135);
+    padding: 50px;
+    border: 3px solid rgb(219, 163, 41);
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+.divClass {
+    width: 500px;
+    
+}
